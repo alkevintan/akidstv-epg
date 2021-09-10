@@ -1,0 +1,1448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="PTV">
+    <display-name lang="en">PTV</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="TV 5">
+    <display-name lang="en">TV 5</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="GMA 7">
+    <display-name lang="en">GMA 7</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="GMA News TV">
+    <display-name lang="en">GMA News TV</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="IBC 13">
+    <display-name lang="en">IBC 13</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="ETC">
+    <display-name lang="en">ETC</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="A2Z Channel 11">
+    <display-name lang="en">A2Z Channel 11</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="ANC">
+    <display-name lang="en">ANC</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="en">AXN</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="Animax">
+    <display-name lang="en">Animax</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="Blue Ant Extreme">
+    <display-name lang="en">Blue Ant Extreme</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="CNN Philippines">
+    <display-name lang="en">CNN Philippines</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="Celestial Movies Pinoy">
+    <display-name lang="en">Celestial Movies Pinoy</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="Cinema One">
+    <display-name lang="en">Cinema One</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="en">Cinemax</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="Crime and Investigation">
+    <display-name lang="en">Crime and Investigation</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="en">Disney Channel</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="en">Disney Junior</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="en">FOX</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="Fox Life">
+    <display-name lang="en">Fox Life</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="Fox Movies">
+    <display-name lang="en">Fox Movies</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="FoxCrime">
+    <display-name lang="en">FoxCrime</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="GEM TV">
+    <display-name lang="en">GEM TV</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="en">HBO</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="History Channel">
+    <display-name lang="en">History Channel</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="Jeepney TV">
+    <display-name lang="en">Jeepney TV</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="Kapamilya Channel">
+    <display-name lang="en">Kapamilya Channel</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="MYX">
+    <display-name lang="en">MYX</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="Metro Channel">
+    <display-name lang="en">Metro Channel</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="en">National Geographic</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="en">Nickelodeon</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="PBO">
+    <display-name lang="en">PBO</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="Tagalized Movie Channel">
+    <display-name lang="en">Tagalized Movie Channel</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="Telenovela Channel">
+    <display-name lang="en">Telenovela Channel</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <channel id="Viva Channel">
+    <display-name lang="en">Viva Channel</display-name>
+    <url>http://www.clickthecity.com</url>
+  </channel>
+  <programme start="20210910050000 +0800" stop="20210910060000 +0800" channel="TV 5">
+    <title lang="en">Word Of God</title>
+    <description>Hello hello</description>
+  </programme>
+  <programme start="20210910060000 +0800" stop="20210910063000 +0800" channel="TV 5">
+    <title lang="en">Frontline Pilipinas</title>
+  </programme>
+  <programme start="20210910063000 +0800" stop="20210910070000 +0800" channel="TV 5">
+    <title lang="en">The Powerpuff Girls</title>
+  </programme>
+  <programme start="20210910070000 +0800" stop="20210910073000 +0800" channel="TV 5">
+    <title lang="en">Ed, Edd N Eddy</title>
+  </programme>
+  <programme start="20210910073000 +0800" stop="20210910080000 +0800" channel="TV 5">
+    <title lang="en">Adventure Time</title>
+  </programme>
+  <programme start="20210910080000 +0800" stop="20210910083000 +0800" channel="TV 5">
+    <title lang="en">Generator Rex</title>
+  </programme>
+  <programme start="20210910083000 +0800" stop="20210910090000 +0800" channel="TV 5">
+    <title lang="en">The Marvelous Mis-Adventures Of Flap Jack</title>
+  </programme>
+  <programme start="20210910090000 +0800" stop="20210910093000 +0800" channel="TV 5">
+    <title lang="en">44 Cats</title>
+  </programme>
+  <programme start="20210910093000 +0800" stop="20210910100000 +0800" channel="TV 5">
+    <title lang="en">Winx Club</title>
+  </programme>
+  <programme start="20210910100000 +0800" stop="20210910103000 +0800" channel="TV 5">
+    <title lang="en">Regal Academy</title>
+  </programme>
+  <programme start="20210910103000 +0800" stop="20210910120000 +0800" channel="TV 5">
+    <title lang="en">Idol In Action</title>
+  </programme>
+  <programme start="20210910120000 +0800" stop="20210910140000 +0800" channel="TV 5">
+    <title lang="en">Lunch Out Loud</title>
+  </programme>
+  <programme start="20210910140000 +0800" stop="20210910150000 +0800" channel="TV 5">
+    <title lang="en">Maria Mercedes</title>
+  </programme>
+  <programme start="20210910150000 +0800" stop="20210910173000 +0800" channel="TV 5">
+    <title lang="en">PBA</title>
+  </programme>
+  <programme start="20210910173000 +0800" stop="20210910180000 +0800" channel="TV 5">
+    <title lang="en">Frontline Pilipinas</title>
+  </programme>
+  <programme start="20210910180000 +0800" stop="20210910200000 +0800" channel="TV 5">
+    <title lang="en">PBA</title>
+  </programme>
+  <programme start="20210910200000 +0800" stop="20210910204000 +0800" channel="TV 5">
+    <title lang="en">FPJ's Ang Probinsyano</title>
+  </programme>
+  <programme start="20210910204000 +0800" stop="20210910212000 +0800" channel="TV 5">
+    <title lang="en">Huwag Kang Mangamba</title>
+  </programme>
+  <programme start="20210910212000 +0800" stop="20210910220000 +0800" channel="TV 5">
+    <title lang="en">Init Sa Magdamag</title>
+  </programme>
+  <programme start="20210910220000 +0800" stop="20210910223000 +0800" channel="TV 5">
+    <title lang="en">La Vida Lena</title>
+  </programme>
+  <programme start="20210910223000 +0800" stop="20210910230000 +0800" channel="TV 5">
+    <title lang="en">Reina de Corazones</title>
+  </programme>
+  <programme start="20210910230000 +0800" stop="20210910233000 +0800" channel="TV 5">
+    <title lang="en">Tierra De Reyes</title>
+  </programme>
+  <programme start="20210910053000 +0800" stop="20210910080000 +0800" channel="GMA 7">
+    <title lang="en">Unang Hirit</title>
+  </programme>
+  <programme start="20210910080000 +0800" stop="20210910082500 +0800" channel="GMA 7">
+    <title lang="en">Ghost Fighter</title>
+  </programme>
+  <programme start="20210910082500 +0800" stop="20210910084500 +0800" channel="GMA 7">
+    <title lang="en">God Of Lost Fantasy</title>
+  </programme>
+  <programme start="20210910084500 +0800" stop="20210910093000 +0800" channel="GMA 7">
+    <title lang="en">Mars Pa More</title>
+  </programme>
+  <programme start="20210910093000 +0800" stop="20210910113000 +0800" channel="GMA 7">
+    <title lang="en">Kapuso Movie Festival</title>
+    <description>Hello hello</description>
+  </programme>
+  <programme start="20210910113000 +0800" stop="20210910120000 +0800" channel="GMA 7">
+    <title lang="en">Oh My Baby</title>
+    <description>Hello hello</description>
+  </programme>
+  <programme start="20210910120000 +0800" stop="20210910143000 +0800" channel="GMA 7">
+    <title lang="en">Eat Bulaga</title>
+  </programme>
+  <programme start="20210910143000 +0800" stop="20210910152000 +0800" channel="GMA 7">
+    <title lang="en">Nagbabagang Luha</title>
+  </programme>
+  <programme start="20210910152000 +0800" stop="20210910161000 +0800" channel="GMA 7">
+    <title lang="en">Ang Dalawang Ikaw</title>
+  </programme>
+  <programme start="20210910161000 +0800" stop="20210910170000 +0800" channel="GMA 7">
+    <title lang="en">The Good Daughter</title>
+  </programme>
+  <programme start="20210910170000 +0800" stop="20210910183000 +0800" channel="GMA 7">
+    <title lang="en">Tutok to Win</title>
+  </programme>
+  <programme start="20210910183000 +0800" stop="20210910200000 +0800" channel="GMA 7">
+    <title lang="en">24 Oras</title>
+  </programme>
+  <programme start="20210910200000 +0800" stop="20210910204500 +0800" channel="GMA 7">
+    <title lang="en">Legal Wives</title>
+  </programme>
+  <programme start="20210910204500 +0800" stop="20210910213000 +0800" channel="GMA 7">
+    <title lang="en">Endless Love</title>
+  </programme>
+  <programme start="20210910213000 +0800" stop="20210910220000 +0800" channel="GMA 7">
+    <title lang="en">The Penthouse 2</title>
+  </programme>
+  <programme start="20210910220000 +0800" stop="20210910231500 +0800" channel="GMA 7">
+    <title lang="en">Bubble Gang</title>
+  </programme>
+  <programme start="20210910053000 +0800" stop="20210910070000 +0800" channel="GMA News TV">
+    <title lang="en">Melo Del Prado Sa Double B</title>
+  </programme>
+  <programme start="20210910070000 +0800" stop="20210910080000 +0800" channel="GMA News TV">
+    <title lang="en">Super Balita Sa Umaga</title>
+  </programme>
+  <programme start="20210910080000 +0800" stop="20210910090000 +0800" channel="GMA News TV">
+    <title lang="en">Saksi Sa Dobol B</title>
+  </programme>
+  <programme start="20210910090000 +0800" stop="20210910093000 +0800" channel="GMA News TV">
+    <title lang="en">Regional TV News</title>
+  </programme>
+  <programme start="20210910093000 +0800" stop="20210910100000 +0800" channel="GMA News TV">
+    <title lang="en">Pokemon The Series: Sun &amp; Moon</title>
+  </programme>
+  <programme start="20210910100000 +0800" stop="20210910103000 +0800" channel="GMA News TV">
+    <title lang="en">Fairy Tail</title>
+  </programme>
+  <programme start="20210910103000 +0800" stop="20210910110000 +0800" channel="GMA News TV">
+    <title lang="en">Knock Out</title>
+  </programme>
+  <programme start="20210910110000 +0800" stop="20210910120000 +0800" channel="GMA News TV">
+    <title lang="en">Balitanghali</title>
+  </programme>
+  <programme start="20210910120000 +0800" stop="20210910140000 +0800" channel="GMA News TV">
+    <title lang="en">Siestas Piesta Movies</title>
+  </programme>
+  <programme start="20210910140000 +0800" stop="20210910150000 +0800" channel="GMA News TV">
+    <title lang="en">Innocent Defendant</title>
+  </programme>
+  <programme start="20210910150000 +0800" stop="20210910160000 +0800" channel="GMA News TV">
+    <title lang="en">La Dona</title>
+  </programme>
+  <programme start="20210910160000 +0800" stop="20210910180000 +0800" channel="GMA News TV">
+    <title lang="en">Regal Treasures</title>
+  </programme>
+  <programme start="20210910180000 +0800" stop="20210910183000 +0800" channel="GMA News TV">
+    <title lang="en">Biyahe Ni Drew</title>
+  </programme>
+  <programme start="20210910183000 +0800" stop="20210910200000 +0800" channel="GMA News TV">
+    <title lang="en">24 Oras</title>
+  </programme>
+  <programme start="20210910200000 +0800" stop="20210910204500 +0800" channel="GMA News TV">
+    <title lang="en">Legal Wives</title>
+  </programme>
+  <programme start="20210910204500 +0800" stop="20210910224500 +0800" channel="GMA News TV">
+    <title lang="en">G! Flicks</title>
+  </programme>
+  <programme start="20210910224500 +0800" stop="20210910231500 +0800" channel="GMA News TV">
+    <title lang="en">La Dona</title>
+  </programme>
+  <programme start="20210910070000 +0800" stop="20210910120000 +0800" channel="IBC 13">
+    <title lang="en">DEPED TV</title>
+  </programme>
+  <programme start="20210910120000 +0800" stop="20210910170000 +0800" channel="IBC 13">
+    <title lang="en">DEPED TV</title>
+  </programme>
+  <programme start="20210910170000 +0800" stop="20210910190000 +0800" channel="IBC 13">
+    <title lang="en">DEPED TV</title>
+  </programme>
+  <programme start="20210910190000 +0800" stop="20210910193000 +0800" channel="IBC 13">
+    <title lang="en">IBC Tutok 13</title>
+  </programme>
+  <programme start="20210910193000 +0800" stop="20210910203000 +0800" channel="IBC 13">
+    <title lang="en">Network Briefing with Sec. Martin Andanar</title>
+  </programme>
+  <programme start="20210910000000 +0800" stop="20210910020000 +0800" channel="ETC">
+    <title lang="en">Balbakwa</title>
+  </programme>
+  <programme start="20210910020000 +0800" stop="20210910040000 +0800" channel="ETC">
+    <title lang="en">Dashing Through The Snow</title>
+  </programme>
+  <programme start="20210910040000 +0800" stop="20210910050000 +0800" channel="ETC">
+    <title lang="en">Top Chef JR. S2</title>
+  </programme>
+  <programme start="20210910050000 +0800" stop="20210910060000 +0800" channel="ETC">
+    <title lang="en">Top Chef JR. S2</title>
+  </programme>
+  <programme start="20210910060000 +0800" stop="20210910070000 +0800" channel="ETC">
+    <title lang="en">Everywhere I Go</title>
+  </programme>
+  <programme start="20210910070000 +0800" stop="20210910070000 +0800" channel="ETC">
+    <title lang="en">Guest Star</title>
+  </programme>
+  <programme start="20210910070000 +0800" stop="20210910080000 +0800" channel="ETC">
+    <title lang="en">Jane The Virgin S3</title>
+  </programme>
+  <programme start="20210910080000 +0800" stop="20210910090000 +0800" channel="ETC">
+    <title lang="en">Flirty Dancing S2</title>
+  </programme>
+  <programme start="20210910090000 +0800" stop="20210910093000 +0800" channel="ETC">
+    <title lang="en">Guest Star</title>
+  </programme>
+  <programme start="20210910093000 +0800" stop="20210910100000 +0800" channel="ETC">
+    <title lang="en">Shop Tv</title>
+  </programme>
+  <programme start="20210910100000 +0800" stop="20210910120000 +0800" channel="ETC">
+    <title lang="en">Balbakwa</title>
+  </programme>
+  <programme start="20210910120000 +0800" stop="20210910130000 +0800" channel="ETC">
+    <title lang="en">Making It</title>
+  </programme>
+  <programme start="20210910130000 +0800" stop="20210910140000 +0800" channel="ETC">
+    <title lang="en">Endless Love S2</title>
+  </programme>
+  <programme start="20210910140000 +0800" stop="20210910160000 +0800" channel="ETC">
+    <title lang="en">Ayaw ni Mayor</title>
+  </programme>
+  <programme start="20210910160000 +0800" stop="20210910170000 +0800" channel="ETC">
+    <title lang="en">Everywhere I Go</title>
+  </programme>
+  <programme start="20210910170000 +0800" stop="20210910190000 +0800" channel="ETC">
+    <title lang="en">Plastic</title>
+  </programme>
+  <programme start="20210910190000 +0800" stop="20210910200000 +0800" channel="ETC">
+    <title lang="en">Endless Love S2</title>
+  </programme>
+  <programme start="20210910200000 +0800" stop="20210910210000 +0800" channel="ETC">
+    <title lang="en">Endless Love S2</title>
+  </programme>
+  <programme start="20210910210000 +0800" stop="20210910230000 +0800" channel="ETC">
+    <title lang="en">Ayaw ni Mayor</title>
+  </programme>
+  <programme start="20210910230000 +0800" stop="20210911000000 +0800" channel="ETC">
+    <title lang="en">Everywhere I Go</title>
+  </programme>
+  <programme start="20210910060000 +0800" stop="20210910070000 +0800" channel="A2Z Channel 11">
+    <title lang="en">Word Of God</title>
+  </programme>
+  <programme start="20210910070000 +0800" stop="20210910090000 +0800" channel="A2Z Channel 11">
+    <title lang="en">A2Z School at Home</title>
+  </programme>
+  <programme start="20210910090000 +0800" stop="20210910100000 +0800" channel="A2Z Channel 11">
+    <title lang="en">Magandang Buhay</title>
+  </programme>
+  <programme start="20210910100000 +0800" stop="20210910120000 +0800" channel="A2Z Channel 11">
+    <title lang="en">Zinema Sa Umaga</title>
+  </programme>
+  <programme start="20210910120000 +0800" stop="20210910143000 +0800" channel="A2Z Channel 11">
+    <title lang="en">It's Showtime</title>
+  </programme>
+  <programme start="20210910143000 +0800" stop="20210910151500 +0800" channel="A2Z Channel 11">
+    <title lang="en">Dolce Amore</title>
+  </programme>
+  <programme start="20210910151500 +0800" stop="20210910160000 +0800" channel="A2Z Channel 11">
+    <title lang="en">Nang Ngumiti Ang Langit</title>
+  </programme>
+  <programme start="20210910160000 +0800" stop="20210910163000 +0800" channel="A2Z Channel 11">
+    <title lang="en">Peter Pan and Wendy</title>
+  </programme>
+  <programme start="20210910163000 +0800" stop="20210910170000 +0800" channel="A2Z Channel 11">
+    <title lang="en">Little Women 2</title>
+  </programme>
+  <programme start="20210910170000 +0800" stop="20210910173000 +0800" channel="A2Z Channel 11">
+    <title lang="en">Flying House</title>
+  </programme>
+  <programme start="20210910173000 +0800" stop="20210910180000 +0800" channel="A2Z Channel 11">
+    <title lang="en">Superbook Reimagined</title>
+  </programme>
+  <programme start="20210910180000 +0800" stop="20210910200000 +0800" channel="A2Z Channel 11">
+    <title lang="en">Primetime Zinema</title>
+  </programme>
+  <programme start="20210910200000 +0800" stop="20210910204500 +0800" channel="A2Z Channel 11">
+    <title lang="en">FPJ's Ang Probinsyano</title>
+  </programme>
+  <programme start="20210910204500 +0800" stop="20210910212500 +0800" channel="A2Z Channel 11">
+    <title lang="en">Huwag Kang Mangamba</title>
+  </programme>
+  <programme start="20210910212500 +0800" stop="20210910220500 +0800" channel="A2Z Channel 11">
+    <title lang="en">Init Sa Magdamag</title>
+  </programme>
+  <programme start="20210910220500 +0800" stop="20210910223500 +0800" channel="A2Z Channel 11">
+    <title lang="en">La Vida Lena</title>
+  </programme>
+  <programme start="20210910223500 +0800" stop="20210910230500 +0800" channel="A2Z Channel 11">
+    <title lang="en">Balitang A2Z</title>
+  </programme>
+  <programme start="20210910000000 +0800" stop="20210910013000 +0800" channel="ANC">
+    <title lang="en">TV Patrol Replay</title>
+  </programme>
+  <programme start="20210910013000 +0800" stop="20210910020000 +0800" channel="ANC">
+    <title lang="en">#NoFilter</title>
+  </programme>
+  <programme start="20210910020000 +0800" stop="20210910023000 +0800" channel="ANC">
+    <title lang="en">Executive Class</title>
+  </programme>
+  <programme start="20210910023000 +0800" stop="20210910030000 +0800" channel="ANC">
+    <title lang="en">On The Money</title>
+  </programme>
+  <programme start="20210910030000 +0800" stop="20210910033000 +0800" channel="ANC">
+    <title lang="en">Talkback</title>
+  </programme>
+  <programme start="20210910033000 +0800" stop="20210910040000 +0800" channel="ANC">
+    <title lang="en">Beyond Politics</title>
+  </programme>
+  <programme start="20210910040000 +0800" stop="20210910043000 +0800" channel="ANC">
+    <title lang="en">Entrep Lab</title>
+  </programme>
+  <programme start="20210910043000 +0800" stop="20210910050000 +0800" channel="ANC">
+    <title lang="en">Hot Copy on Headstart</title>
+  </programme>
+  <programme start="20210910050000 +0800" stop="20210910070000 +0800" channel="ANC">
+    <title lang="en">Movie Central Presents</title>
+  </programme>
+  <programme start="20210910070000 +0800" stop="20210910080000 +0800" channel="ANC">
+    <title lang="en">Matters of Fact</title>
+  </programme>
+  <programme start="20210910080000 +0800" stop="20210910090000 +0800" channel="ANC">
+    <title lang="en">Headstart</title>
+  </programme>
+  <programme start="20210910090000 +0800" stop="20210910100000 +0800" channel="ANC">
+    <title lang="en">Market Edge</title>
+  </programme>
+  <programme start="20210910100000 +0800" stop="20210910103000 +0800" channel="ANC">
+    <title lang="en">ANC Rundown</title>
+  </programme>
+  <programme start="20210910103000 +0800" stop="20210910110000 +0800" channel="ANC">
+    <title lang="en">Sports U</title>
+  </programme>
+  <programme start="20210910110000 +0800" stop="20210910113000 +0800" channel="ANC">
+    <title lang="en">ANC Rundown</title>
+  </programme>
+  <programme start="20210910113000 +0800" stop="20210910120000 +0800" channel="ANC">
+    <title lang="en">Local Legends</title>
+  </programme>
+  <programme start="20210910120000 +0800" stop="20210910130000 +0800" channel="ANC">
+    <title lang="en">Dateline Philippines</title>
+  </programme>
+  <programme start="20210910130000 +0800" stop="20210910140000 +0800" channel="ANC">
+    <title lang="en">Rick Stein's Road To Mexico</title>
+  </programme>
+  <programme start="20210910140000 +0800" stop="20210910143000 +0800" channel="ANC">
+    <title lang="en">ANC Rundown</title>
+  </programme>
+  <programme start="20210910143000 +0800" stop="20210910150000 +0800" channel="ANC">
+    <title lang="en">Dayaw</title>
+  </programme>
+  <programme start="20210910150000 +0800" stop="20210910160000 +0800" channel="ANC">
+    <title lang="en">Market Edge</title>
+  </programme>
+  <programme start="20210910160000 +0800" stop="20210910163000 +0800" channel="ANC">
+    <title lang="en">ANC Rundown</title>
+  </programme>
+  <programme start="20210910163000 +0800" stop="20210910170000 +0800" channel="ANC">
+    <title lang="en">LSS: The Martin Nievera Show</title>
+  </programme>
+  <programme start="20210910170000 +0800" stop="20210910180000 +0800" channel="ANC">
+    <title lang="en">Top Story</title>
+  </programme>
+  <programme start="20210910180000 +0800" stop="20210910183000 +0800" channel="ANC">
+    <title lang="en">Cityscape</title>
+  </programme>
+  <programme start="20210910183000 +0800" stop="20210910200000 +0800" channel="ANC">
+    <title lang="en">TV Patrol</title>
+  </programme>
+  <programme start="20210910200000 +0800" stop="20210910203000 +0800" channel="ANC">
+    <title lang="en">Rev</title>
+  </programme>
+  <programme start="20210910203000 +0800" stop="20210910210000 +0800" channel="ANC">
+    <title lang="en">Cityscape</title>
+  </programme>
+  <programme start="20210910210000 +0800" stop="20210910213000 +0800" channel="ANC">
+    <title lang="en">The World Tonight</title>
+  </programme>
+  <programme start="20210910213000 +0800" stop="20210910220000 +0800" channel="ANC">
+    <title lang="en">Shop Talk</title>
+  </programme>
+  <programme start="20210910220000 +0800" stop="20210910230000 +0800" channel="ANC">
+    <title lang="en">ANC Conversations</title>
+  </programme>
+  <programme start="20210910230000 +0800" stop="20210911000000 +0800" channel="ANC">
+    <title lang="en">Anthony Bourdain's No Reservation</title>
+  </programme>
+  <programme start="20210910003500 +0800" stop="20210910013000 +0800" channel="AXN">
+    <title lang="en">AXN All-Stars</title>
+  </programme>
+  <programme start="20210910013000 +0800" stop="20210910022500 +0800" channel="AXN">
+    <title lang="en">Deputy (Season 1)</title>
+  </programme>
+  <programme start="20210910022500 +0800" stop="20210910031500 +0800" channel="AXN">
+    <title lang="en">The Elements: Cosentino</title>
+  </programme>
+  <programme start="20210910031500 +0800" stop="20210910041500 +0800" channel="AXN">
+    <title lang="en">The Blacklist (Season 8)</title>
+  </programme>
+  <programme start="20210910041500 +0800" stop="20210910051000 +0800" channel="AXN">
+    <title lang="en">AXN All-Stars</title>
+  </programme>
+  <programme start="20210910051000 +0800" stop="20210910060000 +0800" channel="AXN">
+    <title lang="en">NCIS: Los Angeles (Season 11)</title>
+  </programme>
+  <programme start="20210910060000 +0800" stop="20210910065000 +0800" channel="AXN">
+    <title lang="en">American Ninja Warrior S11</title>
+  </programme>
+  <programme start="20210910065000 +0800" stop="20210910074000 +0800" channel="AXN">
+    <title lang="en">The Rookie (Season 3)</title>
+  </programme>
+  <programme start="20210910074000 +0800" stop="20210910083000 +0800" channel="AXN">
+    <title lang="en">The Blacklist (Season 8)</title>
+  </programme>
+  <programme start="20210910083000 +0800" stop="20210910092000 +0800" channel="AXN">
+    <title lang="en">Blue Bloods (Season 10)</title>
+  </programme>
+  <programme start="20210910092000 +0800" stop="20210910101500 +0800" channel="AXN">
+    <title lang="en">Deputy (Season 1)</title>
+  </programme>
+  <programme start="20210910101500 +0800" stop="20210910111000 +0800" channel="AXN">
+    <title lang="en">The Rookie (Season 3)</title>
+  </programme>
+  <programme start="20210910111000 +0800" stop="20210910120500 +0800" channel="AXN">
+    <title lang="en">The Amazing Race (Season 31)</title>
+  </programme>
+  <programme start="20210910120500 +0800" stop="20210910125500 +0800" channel="AXN">
+    <title lang="en">The Blacklist (Season 8)</title>
+  </programme>
+  <programme start="20210910125500 +0800" stop="20210910135000 +0800" channel="AXN">
+    <title lang="en">Deputy (Season 1)</title>
+  </programme>
+  <programme start="20210910135000 +0800" stop="20210910144000 +0800" channel="AXN">
+    <title lang="en">Blue Bloods (Season 10)</title>
+  </programme>
+  <programme start="20210910144000 +0800" stop="20210910153500 +0800" channel="AXN">
+    <title lang="en">American Ninja Warrior S11</title>
+  </programme>
+  <programme start="20210910153500 +0800" stop="20210910162500 +0800" channel="AXN">
+    <title lang="en">The Blacklist (Season 8)</title>
+  </programme>
+  <programme start="20210910162500 +0800" stop="20210910171500 +0800" channel="AXN">
+    <title lang="en">The Rookie (Season 3)</title>
+  </programme>
+  <programme start="20210910171500 +0800" stop="20210910180500 +0800" channel="AXN">
+    <title lang="en">Deputy (Season 1)</title>
+  </programme>
+  <programme start="20210910180500 +0800" stop="20210910190000 +0800" channel="AXN">
+    <title lang="en">Macgyver (Season 5)</title>
+  </programme>
+  <programme start="20210910190000 +0800" stop="20210910205000 +0800" channel="AXN">
+    <title lang="en">American Ninja Warrior Junior</title>
+  </programme>
+  <programme start="20210910205000 +0800" stop="20210910224000 +0800" channel="AXN">
+    <title lang="en">The Messengers</title>
+  </programme>
+  <programme start="20210910224000 +0800" stop="20210910233500 +0800" channel="AXN">
+    <title lang="en">The Rookie (Season 3)</title>
+  </programme>
+  <programme start="20210910000000 +0800" stop="20210910010000 +0800" channel="Animax">
+    <title lang="en">Fairy Tail Final Series</title>
+  </programme>
+  <programme start="20210910010000 +0800" stop="20210910020000 +0800" channel="Animax">
+    <title lang="en">The Seven Deadly Sins</title>
+  </programme>
+  <programme start="20210910020000 +0800" stop="20210910023000 +0800" channel="Animax">
+    <title lang="en">Real Girl</title>
+  </programme>
+  <programme start="20210910023000 +0800" stop="20210910030000 +0800" channel="Animax">
+    <title lang="en">Cells At Work! Code Black</title>
+  </programme>
+  <programme start="20210910030000 +0800" stop="20210910033000 +0800" channel="Animax">
+    <title lang="en">Best Of Animax</title>
+  </programme>
+  <programme start="20210910033000 +0800" stop="20210910040000 +0800" channel="Animax">
+    <title lang="en">One Punch Man</title>
+  </programme>
+  <programme start="20210910040000 +0800" stop="20210910043000 +0800" channel="Animax">
+    <title lang="en">Gurazeni</title>
+  </programme>
+  <programme start="20210910043000 +0800" stop="20210910053000 +0800" channel="Animax">
+    <title lang="en">The Seven Deadly Sins</title>
+  </programme>
+  <programme start="20210910053000 +0800" stop="20210910060000 +0800" channel="Animax">
+    <title lang="en">The Ryuo's Work is Never Done!</title>
+  </programme>
+  <programme start="20210910060000 +0800" stop="20210910063000 +0800" channel="Animax">
+    <title lang="en">Gurazeni</title>
+  </programme>
+  <programme start="20210910063000 +0800" stop="20210910070000 +0800" channel="Animax">
+    <title lang="en">One Punch Man</title>
+  </programme>
+  <programme start="20210910070000 +0800" stop="20210910080000 +0800" channel="Animax">
+    <title lang="en">The Seven Deadly Sins</title>
+  </programme>
+  <programme start="20210910080000 +0800" stop="20210910083000 +0800" channel="Animax">
+    <title lang="en">Cells At Work! Code Black</title>
+  </programme>
+  <programme start="20210910083000 +0800" stop="20210910090000 +0800" channel="Animax">
+    <title lang="en">Best Of Animax</title>
+  </programme>
+  <programme start="20210910090000 +0800" stop="20210910093000 +0800" channel="Animax">
+    <title lang="en">Real Girl</title>
+  </programme>
+  <programme start="20210910093000 +0800" stop="20210910103000 +0800" channel="Animax">
+    <title lang="en">Fairy Tail Final Series</title>
+  </programme>
+  <programme start="20210910103000 +0800" stop="20210910110000 +0800" channel="Animax">
+    <title lang="en">One Punch Man</title>
+  </programme>
+  <programme start="20210910110000 +0800" stop="20210910120000 +0800" channel="Animax">
+    <title lang="en">The Seven Deadly Sins</title>
+  </programme>
+  <programme start="20210910120000 +0800" stop="20210910123000 +0800" channel="Animax">
+    <title lang="en">Cells At Work! Code Black</title>
+  </programme>
+  <programme start="20210910123000 +0800" stop="20210910130000 +0800" channel="Animax">
+    <title lang="en">Best Of Animax</title>
+  </programme>
+  <programme start="20210910130000 +0800" stop="20210910133000 +0800" channel="Animax">
+    <title lang="en">Real Girl</title>
+  </programme>
+  <programme start="20210910133000 +0800" stop="20210910140000 +0800" channel="Animax">
+    <title lang="en">The Ryuo's Work is Never Done!</title>
+  </programme>
+  <programme start="20210910140000 +0800" stop="20210910143000 +0800" channel="Animax">
+    <title lang="en">Gurazeni</title>
+  </programme>
+  <programme start="20210910143000 +0800" stop="20210910150000 +0800" channel="Animax">
+    <title lang="en">One Punch Man</title>
+  </programme>
+  <programme start="20210910150000 +0800" stop="20210910160000 +0800" channel="Animax">
+    <title lang="en">The Seven Deadly Sins</title>
+  </programme>
+  <programme start="20210910160000 +0800" stop="20210910163000 +0800" channel="Animax">
+    <title lang="en">Cells At Work! Code Black</title>
+  </programme>
+  <programme start="20210910163000 +0800" stop="20210910170000 +0800" channel="Animax">
+    <title lang="en">Best Of Animax</title>
+  </programme>
+  <programme start="20210910170000 +0800" stop="20210910180000 +0800" channel="Animax">
+    <title lang="en">Land Of The Lustrous</title>
+  </programme>
+  <programme start="20210910180000 +0800" stop="20210910183000 +0800" channel="Animax">
+    <title lang="en">The Ryuo's Work is Never Done!</title>
+  </programme>
+  <programme start="20210910183000 +0800" stop="20210910193000 +0800" channel="Animax">
+    <title lang="en">Fairy Tail Final Series</title>
+  </programme>
+  <programme start="20210910193000 +0800" stop="20210910200000 +0800" channel="Animax">
+    <title lang="en">Real Girl</title>
+  </programme>
+  <programme start="20210910200000 +0800" stop="20210910210000 +0800" channel="Animax">
+    <title lang="en">The Demon Girl Next Door</title>
+  </programme>
+  <programme start="20210910210000 +0800" stop="20210910213000 +0800" channel="Animax">
+    <title lang="en">One Punch Man</title>
+  </programme>
+  <programme start="20210910213000 +0800" stop="20210910220000 +0800" channel="Animax">
+    <title lang="en">Gurazeni</title>
+  </programme>
+  <programme start="20210910220000 +0800" stop="20210910230000 +0800" channel="Animax">
+    <title lang="en">The Seven Deadly Sins</title>
+  </programme>
+  <programme start="20210910230000 +0800" stop="20210911000000 +0800" channel="Animax">
+    <title lang="en">The Demon Girl Next Door</title>
+  </programme>
+  <programme start="20210910005500 +0800" stop="20210910021000 +0800" channel="Blue Ant Extreme">
+    <title lang="en">Arcade Cloud S2</title>
+  </programme>
+  <programme start="20210910021000 +0800" stop="20210910060000 +0800" channel="Blue Ant Extreme">
+    <title lang="en">Paranormal Survivor S4</title>
+  </programme>
+  <programme start="20210910060000 +0800" stop="20210910070000 +0800" channel="Blue Ant Extreme">
+    <title lang="en">Paranormal Survivor S5</title>
+  </programme>
+  <programme start="20210910070000 +0800" stop="20210910074000 +0800" channel="Blue Ant Extreme">
+    <title lang="en">Louis Walcott - HIITxBOX</title>
+  </programme>
+  <programme start="20210910074000 +0800" stop="20210910111000 +0800" channel="Blue Ant Extreme">
+    <title lang="en">Paranormal Survivor S4</title>
+  </programme>
+  <programme start="20210910111000 +0800" stop="20210910121000 +0800" channel="Blue Ant Extreme">
+    <title lang="en">Paranormal Survivor S5</title>
+  </programme>
+  <programme start="20210910121000 +0800" stop="20210910124000 +0800" channel="Blue Ant Extreme">
+    <title lang="en">Kirsty Hendey - Core Burn| All Levels | No Equipment #1</title>
+  </programme>
+  <programme start="20210910124000 +0800" stop="20210910151500 +0800" channel="Blue Ant Extreme">
+    <title lang="en">Wisecrack</title>
+  </programme>
+  <programme start="20210910151500 +0800" stop="20210910190000 +0800" channel="Blue Ant Extreme">
+    <title lang="en">BattleBots S4</title>
+  </programme>
+  <programme start="20210910190000 +0800" stop="20210910224000 +0800" channel="Blue Ant Extreme">
+    <title lang="en">Hotel Paranormal</title>
+  </programme>
+  <programme start="20210910224000 +0800" stop="20210910235000 +0800" channel="Blue Ant Extreme">
+    <title lang="en">Arcade Cloud S2</title>
+  </programme>
+  <programme start="20210910000000 +0800" stop="20210910020000 +0800" channel="CNN Philippines">
+    <title lang="en">CNN Morning Express</title>
+  </programme>
+  <programme start="20210910020000 +0800" stop="20210910030000 +0800" channel="CNN Philippines">
+    <title lang="en">CNN Newsroom International</title>
+  </programme>
+  <programme start="20210910030000 +0800" stop="20210910033000 +0800" channel="CNN Philippines">
+    <title lang="en">Wholesome Meals Better Life</title>
+  </programme>
+  <programme start="20210910033000 +0800" stop="20210910040000 +0800" channel="CNN Philippines">
+    <title lang="en">The Final Word with Rico Hizon</title>
+  </programme>
+  <programme start="20210910040000 +0800" stop="20210910050000 +0800" channel="CNN Philippines">
+    <title lang="en">Amanpour</title>
+  </programme>
+  <programme start="20210910050000 +0800" stop="20210910053000 +0800" channel="CNN Philippines">
+    <title lang="en">In Case You Missed It</title>
+  </programme>
+  <programme start="20210910053000 +0800" stop="20210910060000 +0800" channel="CNN Philippines">
+    <title lang="en">Get Fit</title>
+  </programme>
+  <programme start="20210910060000 +0800" stop="20210910070000 +0800" channel="CNN Philippines">
+    <title lang="en">Newday</title>
+  </programme>
+  <programme start="20210910070000 +0800" stop="20210910073000 +0800" channel="CNN Philippines">
+    <title lang="en">Med Talk Health Talk</title>
+  </programme>
+  <programme start="20210910073000 +0800" stop="20210910080000 +0800" channel="CNN Philippines">
+    <title lang="en">Wholesome Meals Better Life</title>
+  </programme>
+  <programme start="20210910080000 +0800" stop="20210910090000 +0800" channel="CNN Philippines">
+    <title lang="en">Newday</title>
+  </programme>
+  <programme start="20210910090000 +0800" stop="20210910093000 +0800" channel="CNN Philippines">
+    <title lang="en">The Source</title>
+  </programme>
+  <programme start="20210910093000 +0800" stop="20210910100000 +0800" channel="CNN Philippines">
+    <title lang="en">Med Talk Health Talk</title>
+  </programme>
+  <programme start="20210910100000 +0800" stop="20210910103000 +0800" channel="CNN Philippines">
+    <title lang="en">Sportsdesk</title>
+  </programme>
+  <programme start="20210910103000 +0800" stop="20210910113000 +0800" channel="CNN Philippines">
+    <title lang="en">Anderson Cooper 360°</title>
+  </programme>
+  <programme start="20210910113000 +0800" stop="20210910120000 +0800" channel="CNN Philippines">
+    <title lang="en">Wholesome Meals Better Life</title>
+  </programme>
+  <programme start="20210910120000 +0800" stop="20210910123000 +0800" channel="CNN Philippines">
+    <title lang="en">Balitaan</title>
+  </programme>
+  <programme start="20210910123000 +0800" stop="20210910130000 +0800" channel="CNN Philippines">
+    <title lang="en">The Source</title>
+  </programme>
+  <programme start="20210910130000 +0800" stop="20210910140000 +0800" channel="CNN Philippines">
+    <title lang="en">CNN Newsroom International</title>
+  </programme>
+  <programme start="20210910140000 +0800" stop="20210910143000 +0800" channel="CNN Philippines">
+    <title lang="en">Balitaan</title>
+  </programme>
+  <programme start="20210910143000 +0800" stop="20210910150000 +0800" channel="CNN Philippines">
+    <title lang="en">Sportsdesk</title>
+  </programme>
+  <programme start="20210910150000 +0800" stop="20210910153000 +0800" channel="CNN Philippines">
+    <title lang="en">Newsroom Ngayon</title>
+  </programme>
+  <programme start="20210910153000 +0800" stop="20210910160000 +0800" channel="CNN Philippines">
+    <title lang="en">Med Talk Health Talk</title>
+  </programme>
+  <programme start="20210910160000 +0800" stop="20210910170000 +0800" channel="CNN Philippines">
+    <title lang="en">CNN Newsroom International</title>
+  </programme>
+  <programme start="20210910170000 +0800" stop="20210910173000 +0800" channel="CNN Philippines">
+    <title lang="en">Newsroom Ngayon</title>
+  </programme>
+  <programme start="20210910173000 +0800" stop="20210910174500 +0800" channel="CNN Philippines">
+    <title lang="en">CNN 10</title>
+  </programme>
+  <programme start="20210910174500 +0800" stop="20210910180000 +0800" channel="CNN Philippines">
+    <title lang="en">Traffic Center</title>
+  </programme>
+  <programme start="20210910180000 +0800" stop="20210910183000 +0800" channel="CNN Philippines">
+    <title lang="en">News Night</title>
+  </programme>
+  <programme start="20210910183000 +0800" stop="20210910190000 +0800" channel="CNN Philippines">
+    <title lang="en">Wholesome Meals Better Life</title>
+  </programme>
+  <programme start="20210910190000 +0800" stop="20210910193000 +0800" channel="CNN Philippines">
+    <title lang="en">News.Ph</title>
+  </programme>
+  <programme start="20210910193000 +0800" stop="20210910200000 +0800" channel="CNN Philippines">
+    <title lang="en">The Source</title>
+  </programme>
+  <programme start="20210910200000 +0800" stop="20210910203000 +0800" channel="CNN Philippines">
+    <title lang="en">The Exchange with Rico Hizon</title>
+  </programme>
+  <programme start="20210910203000 +0800" stop="20210910210000 +0800" channel="CNN Philippines">
+    <title lang="en">Story Of The Filipino</title>
+  </programme>
+  <programme start="20210910210000 +0800" stop="20210910214500 +0800" channel="CNN Philippines">
+    <title lang="en">The Final Word with Rico Hizon</title>
+  </programme>
+  <programme start="20210910214500 +0800" stop="20210910220000 +0800" channel="CNN Philippines">
+    <title lang="en">CNN 10</title>
+  </programme>
+  <programme start="20210910220000 +0800" stop="20210910223000 +0800" channel="CNN Philippines">
+    <title lang="en">News.Ph</title>
+  </programme>
+  <programme start="20210910223000 +0800" stop="20210910230000 +0800" channel="CNN Philippines">
+    <title lang="en">Med Talk Health Talk</title>
+  </programme>
+  <programme start="20210910230000 +0800" stop="20210910234500 +0800" channel="CNN Philippines">
+    <title lang="en">The Final Word with Rico Hizon</title>
+  </programme>
+  <programme start="20210910234500 +0800" stop="20210911000000 +0800" channel="CNN Philippines">
+    <title lang="en">CNN 10</title>
+  </programme>
+  <programme start="20210910004500 +0800" stop="20210910022500 +0800" channel="Celestial Movies Pinoy">
+    <title lang="en">Dry Wood Fierce Fire</title>
+  </programme>
+  <programme start="20210910022500 +0800" stop="20210910040000 +0800" channel="Celestial Movies Pinoy">
+    <title lang="en">Shaolin Kung Fu Kids</title>
+  </programme>
+  <programme start="20210910040000 +0800" stop="20210910054500 +0800" channel="Celestial Movies Pinoy">
+    <title lang="en">The Flying Guillotine</title>
+  </programme>
+  <programme start="20210910054500 +0800" stop="20210910072000 +0800" channel="Celestial Movies Pinoy">
+    <title lang="en">Untold Body</title>
+  </programme>
+  <programme start="20210910072000 +0800" stop="20210910090000 +0800" channel="Celestial Movies Pinoy">
+    <title lang="en">The Incredible Monk</title>
+  </programme>
+  <programme start="20210910090000 +0800" stop="20210910103000 +0800" channel="Celestial Movies Pinoy">
+    <title lang="en">Shaolin Hand Lock</title>
+  </programme>
+  <programme start="20210910103000 +0800" stop="20210910115500 +0800" channel="Celestial Movies Pinoy">
+    <title lang="en">The Kid with the Golden Arm</title>
+  </programme>
+  <programme start="20210910115500 +0800" stop="20210910132500 +0800" channel="Celestial Movies Pinoy">
+    <title lang="en">Legend of Mysterious Agent</title>
+  </programme>
+  <programme start="20210910132500 +0800" stop="20210910154500 +0800" channel="Celestial Movies Pinoy">
+    <title lang="en">The Rescue</title>
+  </programme>
+  <programme start="20210910154500 +0800" stop="20210910174500 +0800" channel="Celestial Movies Pinoy">
+    <title lang="en">Girls</title>
+  </programme>
+  <programme start="20210910174500 +0800" stop="20210910192500 +0800" channel="Celestial Movies Pinoy">
+    <title lang="en">In Your Dreams</title>
+  </programme>
+  <programme start="20210910192500 +0800" stop="20210910210000 +0800" channel="Celestial Movies Pinoy">
+    <title lang="en">Funny Soccer</title>
+  </programme>
+  <programme start="20210910210000 +0800" stop="20210910224000 +0800" channel="Celestial Movies Pinoy">
+    <title lang="en">The Yuppie Fantasia 3</title>
+  </programme>
+  <programme start="20210910010000 +0800" stop="20210910030000 +0800" channel="Cinema One">
+    <title lang="en">Baliktaran</title>
+  </programme>
+  <programme start="20210910030000 +0800" stop="20210910050000 +0800" channel="Cinema One">
+    <title lang="en">Fatima Buen Story</title>
+  </programme>
+  <programme start="20210910050000 +0800" stop="20210910070000 +0800" channel="Cinema One">
+    <title lang="en">Maria Went To Town</title>
+  </programme>
+  <programme start="20210910070000 +0800" stop="20210910090000 +0800" channel="Cinema One">
+    <title lang="en">Ikaw Pa Rin Ang Iibigin</title>
+  </programme>
+  <programme start="20210910090000 +0800" stop="20210910110000 +0800" channel="Cinema One">
+    <title lang="en">Kahit Isang Saglit</title>
+  </programme>
+  <programme start="20210910110000 +0800" stop="20210910130000 +0800" channel="Cinema One">
+    <title lang="en">Aringking King</title>
+  </programme>
+  <programme start="20210910130000 +0800" stop="20210910150000 +0800" channel="Cinema One">
+    <title lang="en">A Very Special Love</title>
+  </programme>
+  <programme start="20210910150000 +0800" stop="20210910170000 +0800" channel="Cinema One">
+    <title lang="en">Ang Tanging Ina Mo (Last na 'to)</title>
+  </programme>
+  <programme start="20210910170000 +0800" stop="20210910190000 +0800" channel="Cinema One">
+    <title lang="en">The Ghosting</title>
+  </programme>
+  <programme start="20210910190000 +0800" stop="20210910210000 +0800" channel="Cinema One">
+    <title lang="en">Bcuz Of U</title>
+  </programme>
+  <programme start="20210910210000 +0800" stop="20210910220000 +0800" channel="Cinema One">
+    <title lang="en">Cinemanews</title>
+  </programme>
+  <programme start="20210910220000 +0800" stop="20210911000000 +0800" channel="Cinema One">
+    <title lang="en">Mission Unstapabol: The Don Identity</title>
+  </programme>
+  <programme start="20210910001500 +0800" stop="20210910011000 +0800" channel="Cinemax">
+    <title lang="en">Doom Patrol S113: Flex Patrol</title>
+  </programme>
+  <programme start="20210910011000 +0800" stop="20210910020000 +0800" channel="Cinemax">
+    <title lang="en">Doom Patrol S114: Penultimate Patrol</title>
+  </programme>
+  <programme start="20210910020000 +0800" stop="20210910030000 +0800" channel="Cinemax">
+    <title lang="en">Doom Patrol S115: Ezekiel Patrol</title>
+  </programme>
+  <programme start="20210910030000 +0800" stop="20210910050500 +0800" channel="Cinemax">
+    <title lang="en">The Client</title>
+  </programme>
+  <programme start="20210910050500 +0800" stop="20210910060000 +0800" channel="Cinemax">
+    <title lang="en">The Rook S103: Chapter 3</title>
+  </programme>
+  <programme start="20210910060000 +0800" stop="20210910074500 +0800" channel="Cinemax">
+    <title lang="en">2 Fast 2 Furious</title>
+  </programme>
+  <programme start="20210910074500 +0800" stop="20210910093500 +0800" channel="Cinemax">
+    <title lang="en">Double Impact</title>
+  </programme>
+  <programme start="20210910093500 +0800" stop="20210910112500 +0800" channel="Cinemax">
+    <title lang="en">Battlestar Galactica: The Plan</title>
+  </programme>
+  <programme start="20210910112500 +0800" stop="20210910132000 +0800" channel="Cinemax">
+    <title lang="en">Flight Of The Intruder</title>
+  </programme>
+  <programme start="20210910132000 +0800" stop="20210910145000 +0800" channel="Cinemax">
+    <title lang="en">Passengers</title>
+  </programme>
+  <programme start="20210910145000 +0800" stop="20210910163500 +0800" channel="Cinemax">
+    <title lang="en">Beverly Hills Cop III</title>
+  </programme>
+  <programme start="20210910163500 +0800" stop="20210910183000 +0800" channel="Cinemax">
+    <title lang="en">Daylight</title>
+  </programme>
+  <programme start="20210910183000 +0800" stop="20210910203000 +0800" channel="Cinemax">
+    <title lang="en">The Client</title>
+  </programme>
+  <programme start="20210910203000 +0800" stop="20210910220000 +0800" channel="Cinemax">
+    <title lang="en">Johnny English</title>
+  </programme>
+  <programme start="20210910220000 +0800" stop="20210910235500 +0800" channel="Cinemax">
+    <title lang="en">Assassin's Creed</title>
+  </programme>
+  <programme start="20210910002500 +0800" stop="20210910021500 +0800" channel="Crime and Investigation">
+    <title lang="en">Hoarders S12</title>
+  </programme>
+  <programme start="20210910021500 +0800" stop="20210910031000 +0800" channel="Crime and Investigation">
+    <title lang="en">Robbie Coltrane's Critical Evidence S2</title>
+  </programme>
+  <programme start="20210910031000 +0800" stop="20210910040500 +0800" channel="Crime and Investigation">
+    <title lang="en">Psychic Kids</title>
+  </programme>
+  <programme start="20210910040500 +0800" stop="20210910050000 +0800" channel="Crime and Investigation">
+    <title lang="en">The Murder Of Canny Ong</title>
+  </programme>
+  <programme start="20210910050000 +0800" stop="20210910060000 +0800" channel="Crime and Investigation">
+    <title lang="en">Murder And Mayhem In Taipei</title>
+  </programme>
+  <programme start="20210910060000 +0800" stop="20210910065000 +0800" channel="Crime and Investigation">
+    <title lang="en">The First 48 S24</title>
+  </programme>
+  <programme start="20210910065000 +0800" stop="20210910074500 +0800" channel="Crime and Investigation">
+    <title lang="en">Intervention S13</title>
+  </programme>
+  <programme start="20210910074500 +0800" stop="20210910084000 +0800" channel="Crime and Investigation">
+    <title lang="en">Cruise Ship Killers</title>
+  </programme>
+  <programme start="20210910084000 +0800" stop="20210910093500 +0800" channel="Crime and Investigation">
+    <title lang="en">Psychic Kids</title>
+  </programme>
+  <programme start="20210910093500 +0800" stop="20210910103000 +0800" channel="Crime and Investigation">
+    <title lang="en">The Murder Of Canny Ong</title>
+  </programme>
+  <programme start="20210910103000 +0800" stop="20210910112500 +0800" channel="Crime and Investigation">
+    <title lang="en">Murder And Mayhem In Taipei</title>
+  </programme>
+  <programme start="20210910112500 +0800" stop="20210910131500 +0800" channel="Crime and Investigation">
+    <title lang="en">Hoarders S12</title>
+  </programme>
+  <programme start="20210910131500 +0800" stop="20210910141000 +0800" channel="Crime and Investigation">
+    <title lang="en">Robbie Coltrane's Critical Evidence S2</title>
+  </programme>
+  <programme start="20210910141000 +0800" stop="20210910150500 +0800" channel="Crime and Investigation">
+    <title lang="en">The First 48 S24</title>
+  </programme>
+  <programme start="20210910150500 +0800" stop="20210910160000 +0800" channel="Crime and Investigation">
+    <title lang="en">Intervention S13</title>
+  </programme>
+  <programme start="20210910160000 +0800" stop="20210910165500 +0800" channel="Crime and Investigation">
+    <title lang="en">Cruise Ship Killers</title>
+  </programme>
+  <programme start="20210910165500 +0800" stop="20210910174500 +0800" channel="Crime and Investigation">
+    <title lang="en">Psychic Kids</title>
+  </programme>
+  <programme start="20210910174500 +0800" stop="20210910183500 +0800" channel="Crime and Investigation">
+    <title lang="en">See No Evil S5</title>
+  </programme>
+  <programme start="20210910183500 +0800" stop="20210910192500 +0800" channel="Crime and Investigation">
+    <title lang="en">Court Cam S3</title>
+  </programme>
+  <programme start="20210910192500 +0800" stop="20210910201500 +0800" channel="Crime and Investigation">
+    <title lang="en">Border Security S7</title>
+  </programme>
+  <programme start="20210910201500 +0800" stop="20210910210500 +0800" channel="Crime and Investigation">
+    <title lang="en">I Survived S5</title>
+  </programme>
+  <programme start="20210910210500 +0800" stop="20210910215500 +0800" channel="Crime and Investigation">
+    <title lang="en">Paranormal: Caught On Camera</title>
+  </programme>
+  <programme start="20210910215500 +0800" stop="20210910224500 +0800" channel="Crime and Investigation">
+    <title lang="en">The Haunting Of S5</title>
+  </programme>
+  <programme start="20210910224500 +0800" stop="20210910234500 +0800" channel="Crime and Investigation">
+    <title lang="en">My Ghost Story Asia S1</title>
+  </programme>
+  <programme start="20210910000000 +0800" stop="20210910010000 +0800" channel="Disney Channel">
+    <title lang="en">Phineas &amp; Ferb</title>
+  </programme>
+  <programme start="20210910010000 +0800" stop="20210910020000 +0800" channel="Disney Channel">
+    <title lang="en">Star Vs. The Forces Of Evil</title>
+  </programme>
+  <programme start="20210910020000 +0800" stop="20210910023000 +0800" channel="Disney Channel">
+    <title lang="en">Gravity Falls</title>
+  </programme>
+  <programme start="20210910023000 +0800" stop="20210910030000 +0800" channel="Disney Channel">
+    <title lang="en">Banzi's Secret Diary</title>
+  </programme>
+  <programme start="20210910030000 +0800" stop="20210910040000 +0800" channel="Disney Channel">
+    <title lang="en">Hotel Transylvania</title>
+  </programme>
+  <programme start="20210910040000 +0800" stop="20210910043000 +0800" channel="Disney Channel">
+    <title lang="en">Tangled: The Series</title>
+  </programme>
+  <programme start="20210910043000 +0800" stop="20210910050000 +0800" channel="Disney Channel">
+    <title lang="en">Phineas &amp; Ferb Elemental</title>
+  </programme>
+  <programme start="20210910050000 +0800" stop="20210910054500 +0800" channel="Disney Channel">
+    <title lang="en">Gravity Falls</title>
+  </programme>
+  <programme start="20210910054500 +0800" stop="20210910060000 +0800" channel="Disney Channel">
+    <title lang="en">Oswaldo</title>
+  </programme>
+  <programme start="20210910060000 +0800" stop="20210910070000 +0800" channel="Disney Channel">
+    <title lang="en">Phineas &amp; Ferb</title>
+  </programme>
+  <programme start="20210910070000 +0800" stop="20210910080000 +0800" channel="Disney Channel">
+    <title lang="en">Star Vs. The Forces Of Evil</title>
+  </programme>
+  <programme start="20210910080000 +0800" stop="20210910085000 +0800" channel="Disney Channel">
+    <title lang="en">Ducktales</title>
+  </programme>
+  <programme start="20210910085000 +0800" stop="20210910090000 +0800" channel="Disney Channel">
+    <title lang="en">Big City Greens</title>
+  </programme>
+  <programme start="20210910090000 +0800" stop="20210910093000 +0800" channel="Disney Channel">
+    <title lang="en">Big Hero 6 The Series</title>
+  </programme>
+  <programme start="20210910093000 +0800" stop="20210910100000 +0800" channel="Disney Channel">
+    <title lang="en">Amphibia</title>
+  </programme>
+  <programme start="20210910100000 +0800" stop="20210910105000 +0800" channel="Disney Channel">
+    <title lang="en">Miraculous: Tales Of Ladybug and Cat Noir</title>
+  </programme>
+  <programme start="20210910105000 +0800" stop="20210910110000 +0800" channel="Disney Channel">
+    <title lang="en">Cupcake &amp; Dino: General Services</title>
+  </programme>
+  <programme start="20210910110000 +0800" stop="20210910114500 +0800" channel="Disney Channel">
+    <title lang="en">Upin and Ipin</title>
+  </programme>
+  <programme start="20210910114500 +0800" stop="20210910120000 +0800" channel="Disney Channel">
+    <title lang="en">Rabbids Invasion</title>
+  </programme>
+  <programme start="20210910120000 +0800" stop="20210910130000 +0800" channel="Disney Channel">
+    <title lang="en">Pokemon The Series: Sun &amp; Moon - Ultra Legends</title>
+  </programme>
+  <programme start="20210910130000 +0800" stop="20210910140000 +0800" channel="Disney Channel">
+    <title lang="en">Beyblade Burst Surge</title>
+  </programme>
+  <programme start="20210910140000 +0800" stop="20210910145000 +0800" channel="Disney Channel">
+    <title lang="en">Miraculous: Tales Of Ladybug and Cat Noir</title>
+  </programme>
+  <programme start="20210910145000 +0800" stop="20210910150000 +0800" channel="Disney Channel">
+    <title lang="en">Cupcake &amp; Dino: General Services</title>
+  </programme>
+  <programme start="20210910150000 +0800" stop="20210910173000 +0800" channel="Disney Channel">
+    <title lang="en">The Karate Kid (2010)</title>
+  </programme>
+  <programme start="20210910173000 +0800" stop="20210910180000 +0800" channel="Disney Channel">
+    <title lang="en">Ducktales</title>
+  </programme>
+  <programme start="20210910180000 +0800" stop="20210910183000 +0800" channel="Disney Channel">
+    <title lang="en">Pokemon The Series: Sun &amp; Moon - Ultra Legends</title>
+  </programme>
+  <programme start="20210910183000 +0800" stop="20210910191500 +0800" channel="Disney Channel">
+    <title lang="en">Upin and Ipin</title>
+  </programme>
+  <programme start="20210910191500 +0800" stop="20210910193000 +0800" channel="Disney Channel">
+    <title lang="en">Rabbids Invasion</title>
+  </programme>
+  <programme start="20210910193000 +0800" stop="20210910203000 +0800" channel="Disney Channel">
+    <title lang="en">Beyblade Burst</title>
+  </programme>
+  <programme start="20210910203000 +0800" stop="20210910210000 +0800" channel="Disney Channel">
+    <title lang="en">Miraculous: Tales Of Ladybug and Cat Noir</title>
+  </programme>
+  <programme start="20210910210000 +0800" stop="20210910220000 +0800" channel="Disney Channel">
+    <title lang="en">Secrets Of Sulphur Springs</title>
+  </programme>
+  <programme start="20210910220000 +0800" stop="20210910232500 +0800" channel="Disney Channel">
+    <title lang="en">Hunchback Of Notre Dame 2</title>
+  </programme>
+  <programme start="20210910232500 +0800" stop="20210911000000 +0800" channel="Disney Channel">
+    <title lang="en">Phineas &amp; Ferb</title>
+  </programme>
+  <programme start="20210910000000 +0800" stop="20210910010000 +0800" channel="Disney Junior">
+    <title lang="en">Mickey Mouse Clubhouse</title>
+  </programme>
+  <programme start="20210910010000 +0800" stop="20210910020000 +0800" channel="Disney Junior">
+    <title lang="en">Sofia The First</title>
+  </programme>
+  <programme start="20210910020000 +0800" stop="20210910030000 +0800" channel="Disney Junior">
+    <title lang="en">Muppet Babies</title>
+  </programme>
+  <programme start="20210910030000 +0800" stop="20210910040000 +0800" channel="Disney Junior">
+    <title lang="en">Puppy Dog Pals</title>
+  </programme>
+  <programme start="20210910040000 +0800" stop="20210910050000 +0800" channel="Disney Junior">
+    <title lang="en">The Lion Guard</title>
+  </programme>
+  <programme start="20210910050000 +0800" stop="20210910060000 +0800" channel="Disney Junior">
+    <title lang="en">Doc Mcstuffins</title>
+  </programme>
+  <programme start="20210910060000 +0800" stop="20210910062000 +0800" channel="Disney Junior">
+    <title lang="en">Sofia The First</title>
+  </programme>
+  <programme start="20210910062000 +0800" stop="20210910065000 +0800" channel="Disney Junior">
+    <title lang="en">Mickey Mouse Clubhouse</title>
+  </programme>
+  <programme start="20210910065000 +0800" stop="20210910070000 +0800" channel="Disney Junior">
+    <title lang="en">Bluey</title>
+  </programme>
+  <programme start="20210910070000 +0800" stop="20210910072000 +0800" channel="Disney Junior">
+    <title lang="en">PJ Masks</title>
+  </programme>
+  <programme start="20210910072000 +0800" stop="20210910074500 +0800" channel="Disney Junior">
+    <title lang="en">Puppy Dog Pals</title>
+  </programme>
+  <programme start="20210910074500 +0800" stop="20210910080000 +0800" channel="Disney Junior">
+    <title lang="en">Doc Mcstuffins</title>
+  </programme>
+  <programme start="20210910080000 +0800" stop="20210910082500 +0800" channel="Disney Junior">
+    <title lang="en">Muppet Babies</title>
+  </programme>
+  <programme start="20210910082500 +0800" stop="20210910084500 +0800" channel="Disney Junior">
+    <title lang="en">The Rocketeer</title>
+  </programme>
+  <programme start="20210910084500 +0800" stop="20210910090000 +0800" channel="Disney Junior">
+    <title lang="en">Mira, Royal Detective</title>
+  </programme>
+  <programme start="20210910090000 +0800" stop="20210910093000 +0800" channel="Disney Junior">
+    <title lang="en">Remy &amp; Boo</title>
+  </programme>
+  <programme start="20210910093000 +0800" stop="20210910100000 +0800" channel="Disney Junior">
+    <title lang="en">T.O.T.S.</title>
+  </programme>
+  <programme start="20210910100000 +0800" stop="20210910103000 +0800" channel="Disney Junior">
+    <title lang="en">Bluey</title>
+  </programme>
+  <programme start="20210910103000 +0800" stop="20210910110000 +0800" channel="Disney Junior">
+    <title lang="en">Elena of Avalor</title>
+  </programme>
+  <programme start="20210910110000 +0800" stop="20210910113000 +0800" channel="Disney Junior">
+    <title lang="en">Doc Mcstuffins</title>
+  </programme>
+  <programme start="20210910113000 +0800" stop="20210910120000 +0800" channel="Disney Junior">
+    <title lang="en">Puppy Dog Pals</title>
+  </programme>
+  <programme start="20210910120000 +0800" stop="20210910122500 +0800" channel="Disney Junior">
+    <title lang="en">Mira, Royal Detective</title>
+  </programme>
+  <programme start="20210910122500 +0800" stop="20210910124500 +0800" channel="Disney Junior">
+    <title lang="en">Gigantosaurus</title>
+  </programme>
+  <programme start="20210910124500 +0800" stop="20210910130000 +0800" channel="Disney Junior">
+    <title lang="en">Remy &amp; Boo</title>
+  </programme>
+  <programme start="20210910130000 +0800" stop="20210910133000 +0800" channel="Disney Junior">
+    <title lang="en">Vampirina</title>
+  </programme>
+  <programme start="20210910133000 +0800" stop="20210910135000 +0800" channel="Disney Junior">
+    <title lang="en">The Rocketeer</title>
+  </programme>
+  <programme start="20210910135000 +0800" stop="20210910143000 +0800" channel="Disney Junior">
+    <title lang="en">T.O.T.S.</title>
+  </programme>
+  <programme start="20210910143000 +0800" stop="20210910145500 +0800" channel="Disney Junior">
+    <title lang="en">Mickey Mouse Mixed-Up Adventures</title>
+  </programme>
+  <programme start="20210910145500 +0800" stop="20210910152000 +0800" channel="Disney Junior">
+    <title lang="en">Fancy Nancy Clancy</title>
+  </programme>
+  <programme start="20210910152000 +0800" stop="20210910154500 +0800" channel="Disney Junior">
+    <title lang="en">Remy &amp; Boo</title>
+  </programme>
+  <programme start="20210910154500 +0800" stop="20210910160000 +0800" channel="Disney Junior">
+    <title lang="en">PJ Masks</title>
+  </programme>
+  <programme start="20210910160000 +0800" stop="20210910162500 +0800" channel="Disney Junior">
+    <title lang="en">Mira, Royal Detective</title>
+  </programme>
+  <programme start="20210910162500 +0800" stop="20210910164500 +0800" channel="Disney Junior">
+    <title lang="en">Elena of Avalor</title>
+  </programme>
+  <programme start="20210910164500 +0800" stop="20210910170000 +0800" channel="Disney Junior">
+    <title lang="en">Doc Mcstuffins: Toy Hospital</title>
+  </programme>
+  <programme start="20210910170000 +0800" stop="20210910172500 +0800" channel="Disney Junior">
+    <title lang="en">PJ Masks</title>
+  </programme>
+  <programme start="20210910172500 +0800" stop="20210910175000 +0800" channel="Disney Junior">
+    <title lang="en">Vampirina</title>
+  </programme>
+  <programme start="20210910175000 +0800" stop="20210910180000 +0800" channel="Disney Junior">
+    <title lang="en">Bluey</title>
+  </programme>
+  <programme start="20210910180000 +0800" stop="20210910182000 +0800" channel="Disney Junior">
+    <title lang="en">T.O.T.S.</title>
+  </programme>
+  <programme start="20210910182000 +0800" stop="20210910184500 +0800" channel="Disney Junior">
+    <title lang="en">Mickey Mouse Mixed-Up Adventures</title>
+  </programme>
+  <programme start="20210910184500 +0800" stop="20210910190000 +0800" channel="Disney Junior">
+    <title lang="en">Muppet Babies</title>
+  </programme>
+  <programme start="20210910190000 +0800" stop="20210910192500 +0800" channel="Disney Junior">
+    <title lang="en">Puppy Dog Pals</title>
+  </programme>
+  <programme start="20210910192500 +0800" stop="20210910195000 +0800" channel="Disney Junior">
+    <title lang="en">The Rocketeer</title>
+  </programme>
+  <programme start="20210910195000 +0800" stop="20210910200000 +0800" channel="Disney Junior">
+    <title lang="en">Bluey</title>
+  </programme>
+  <programme start="20210910200000 +0800" stop="20210910202500 +0800" channel="Disney Junior">
+    <title lang="en">Fancy Nancy Clancy</title>
+  </programme>
+  <programme start="20210910202500 +0800" stop="20210910204500 +0800" channel="Disney Junior">
+    <title lang="en">PJ Masks</title>
+  </programme>
+  <programme start="20210910204500 +0800" stop="20210910210000 +0800" channel="Disney Junior">
+    <title lang="en">Vampirina</title>
+  </programme>
+  <programme start="20210910210000 +0800" stop="20210910212500 +0800" channel="Disney Junior">
+    <title lang="en">Mickey Mouse Roadster Racers</title>
+  </programme>
+  <programme start="20210910212500 +0800" stop="20210910214500 +0800" channel="Disney Junior">
+    <title lang="en">Sofia The First</title>
+  </programme>
+  <programme start="20210910214500 +0800" stop="20210910220000 +0800" channel="Disney Junior">
+    <title lang="en">Mira, Royal Detective</title>
+  </programme>
+  <programme start="20210910220000 +0800" stop="20210910222000 +0800" channel="Disney Junior">
+    <title lang="en">Elena of Avalor</title>
+  </programme>
+  <programme start="20210910222000 +0800" stop="20210910224500 +0800" channel="Disney Junior">
+    <title lang="en">Bluey</title>
+  </programme>
+  <programme start="20210910224500 +0800" stop="20210910230000 +0800" channel="Disney Junior">
+    <title lang="en">Puppy Dog Pals</title>
+  </programme>
+  <programme start="20210910230000 +0800" stop="20210910232000 +0800" channel="Disney Junior">
+    <title lang="en">Gigantosaurus</title>
+  </programme>
+  <programme start="20210910232000 +0800" stop="20210911000000 +0800" channel="Disney Junior">
+    <title lang="en">PJ Masks</title>
+  </programme>
+  <programme start="20210910004500 +0800" stop="20210910014000 +0800" channel="FOX">
+    <title lang="en">Elementary 6</title>
+  </programme>
+  <programme start="20210910014000 +0800" stop="20210910023500 +0800" channel="FOX">
+    <title lang="en">Elementary 6</title>
+  </programme>
+  <programme start="20210910023500 +0800" stop="20210910033000 +0800" channel="FOX">
+    <title lang="en">Lego Masters USA</title>
+  </programme>
+  <programme start="20210910033000 +0800" stop="20210910042500 +0800" channel="FOX">
+    <title lang="en">The Cube USA</title>
+  </programme>
+  <programme start="20210910042500 +0800" stop="20210910052000 +0800" channel="FOX">
+    <title lang="en">S.W.A.T. S4</title>
+  </programme>
+  <programme start="20210910052000 +0800" stop="20210910061500 +0800" channel="FOX">
+    <title lang="en">Resident Alien</title>
+  </programme>
+  <programme start="20210910061500 +0800" stop="20210910071000 +0800" channel="FOX">
+    <title lang="en">NCIS: New Orleans S6</title>
+  </programme>
+  <programme start="20210910071000 +0800" stop="20210910080500 +0800" channel="FOX">
+    <title lang="en">Magnum P.I. S2</title>
+  </programme>
+  <programme start="20210910080500 +0800" stop="20210910090000 +0800" channel="FOX">
+    <title lang="en">Elementary 6</title>
+  </programme>
+  <programme start="20210910090000 +0800" stop="20210910095500 +0800" channel="FOX">
+    <title lang="en">Elementary 6</title>
+  </programme>
+  <programme start="20210910095500 +0800" stop="20210910105000 +0800" channel="FOX">
+    <title lang="en">Lego Masters USA</title>
+  </programme>
+  <programme start="20210910105000 +0800" stop="20210910114500 +0800" channel="FOX">
+    <title lang="en">The Cube USA</title>
+  </programme>
+  <programme start="20210910114500 +0800" stop="20210910123500 +0800" channel="FOX">
+    <title lang="en">S.W.A.T. S4</title>
+  </programme>
+  <programme start="20210910123500 +0800" stop="20210910132500 +0800" channel="FOX">
+    <title lang="en">Resident Alien</title>
+  </programme>
+  <programme start="20210910132500 +0800" stop="20210910141500 +0800" channel="FOX">
+    <title lang="en">NCIS: New Orleans S6</title>
+  </programme>
+  <programme start="20210910141500 +0800" stop="20210910171500 +0800" channel="FOX">
+    <title lang="en">The Walking Dead S7</title>
+  </programme>
+  <programme start="20210910171500 +0800" stop="20210910181000 +0800" channel="FOX">
+    <title lang="en">Elementary 7</title>
+  </programme>
+  <programme start="20210910181000 +0800" stop="20210910190500 +0800" channel="FOX">
+    <title lang="en">Elementary 7</title>
+  </programme>
+  <programme start="20210910190500 +0800" stop="20210910200000 +0800" channel="FOX">
+    <title lang="en">Lego Masters UK S1</title>
+  </programme>
+  <programme start="20210910200000 +0800" stop="20210910210000 +0800" channel="FOX">
+    <title lang="en">Tough As Nails</title>
+  </programme>
+  <programme start="20210910210000 +0800" stop="20210910220000 +0800" channel="FOX">
+    <title lang="en">S.W.A.T. S4</title>
+  </programme>
+  <programme start="20210910220000 +0800" stop="20210910225500 +0800" channel="FOX">
+    <title lang="en">Resident Alien</title>
+  </programme>
+  <programme start="20210910225500 +0800" stop="20210910235000 +0800" channel="FOX">
+    <title lang="en">NCIS: New Orleans S6</title>
+  </programme>
+  <programme start="20210910004500 +0800" stop="20210910014000 +0800" channel="Fox Life">
+    <title lang="en">The Kelly Clarkson Show S2</title>
+  </programme>
+  <programme start="20210910014000 +0800" stop="20210910023500 +0800" channel="Fox Life">
+    <title lang="en">Top Chef 16</title>
+  </programme>
+  <programme start="20210910023500 +0800" stop="20210910042500 +0800" channel="Fox Life">
+    <title lang="en">America's Got Talent 15</title>
+  </programme>
+  <programme start="20210910042500 +0800" stop="20210910052000 +0800" channel="Fox Life">
+    <title lang="en">The Good Doctor S4</title>
+  </programme>
+  <programme start="20210910052000 +0800" stop="20210910061500 +0800" channel="Fox Life">
+    <title lang="en">New Amsterdam S2</title>
+  </programme>
+  <programme start="20210910061500 +0800" stop="20210910071000 +0800" channel="Fox Life">
+    <title lang="en">The Kelly Clarkson Show S2</title>
+  </programme>
+  <programme start="20210910071000 +0800" stop="20210910080500 +0800" channel="Fox Life">
+    <title lang="en">The Kelly Clarkson Show S2</title>
+  </programme>
+  <programme start="20210910080500 +0800" stop="20210910090000 +0800" channel="Fox Life">
+    <title lang="en">Top Chef 16</title>
+  </programme>
+  <programme start="20210910090000 +0800" stop="20210910105000 +0800" channel="Fox Life">
+    <title lang="en">America's Got Talent 15</title>
+  </programme>
+  <programme start="20210910105000 +0800" stop="20210910114500 +0800" channel="Fox Life">
+    <title lang="en">The Good Doctor S4</title>
+  </programme>
+  <programme start="20210910114500 +0800" stop="20210910124000 +0800" channel="Fox Life">
+    <title lang="en">New Amsterdam S2</title>
+  </programme>
+  <programme start="20210910124000 +0800" stop="20210910133500 +0800" channel="Fox Life">
+    <title lang="en">The Kelly Clarkson Show S2</title>
+  </programme>
+  <programme start="20210910133500 +0800" stop="20210910143000 +0800" channel="Fox Life">
+    <title lang="en">Top Chef 16</title>
+  </programme>
+  <programme start="20210910143000 +0800" stop="20210910162000 +0800" channel="Fox Life">
+    <title lang="en">America's Got Talent 15</title>
+  </programme>
+  <programme start="20210910162000 +0800" stop="20210910171500 +0800" channel="Fox Life">
+    <title lang="en">The Good Doctor S4</title>
+  </programme>
+  <programme start="20210910171500 +0800" stop="20210910181000 +0800" channel="Fox Life">
+    <title lang="en">New Amsterdam S2</title>
+  </programme>
+  <programme start="20210910181000 +0800" stop="20210910190500 +0800" channel="Fox Life">
+    <title lang="en">The Kelly Clarkson Show S2</title>
+  </programme>
+  <programme start="20210910190500 +0800" stop="20210910202000 +0800" channel="Fox Life">
+    <title lang="en">Top Chef 16</title>
+  </programme>
+  <programme start="20210910202000 +0800" stop="20210910220000 +0800" channel="Fox Life">
+    <title lang="en">America's Got Talent 15</title>
+  </programme>
+  <programme start="20210910220000 +0800" stop="20210910225500 +0800" channel="Fox Life">
+    <title lang="en">The Good Doctor S4</title>
+  </programme>
+  <programme start="20210910225500 +0800" stop="20210910235000 +0800" channel="Fox Life">
+    <title lang="en">New Amsterdam S2</title>
+  </programme>
+</tv>
